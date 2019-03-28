@@ -1,1 +1,2 @@
 clone  push  pull
+add 添加add的说明

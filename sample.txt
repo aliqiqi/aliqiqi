@@ -1,2 +1,4 @@
 clone  push  pull
-commit è®°å½•ç´¢å¼•çš„çŠ¶æ€
+commit è®°å½•ç´¢å¼•çš„çŠ¶æ€
+add Ìí¼ÓaddµÄËµÃ÷
+
